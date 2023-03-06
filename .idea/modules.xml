@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLektionsinspelningsProjekt.iml" filepath="$PROJECT_DIR$/.idea/JavaLektionsinspelningsProjekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering 1 Kod/Programmering 1 Kod.iml" filepath="$PROJECT_DIR$/Programmering 1 Kod/Programmering 1 Kod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering 2 Kod/Programmering 2 Kod.iml" filepath="$PROJECT_DIR$/Programmering 2 Kod/Programmering 2 Kod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering 1 Kod/YatzyHjälp/YatzyHjälp.iml" filepath="$PROJECT_DIR$/Programmering 1 Kod/YatzyHjälp/YatzyHjälp.iml" />
+    </modules>
+  </component>
+</project>
